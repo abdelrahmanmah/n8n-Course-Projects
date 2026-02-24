@@ -30,7 +30,7 @@
 📦 n8n-workflows/
  ┣ 📂 ai-agents/          → LLM-powered automation workflows
  ┣ 📂 data-pipelines/     → ETL & data transformation flows
- ┣ 📂 notifications/      → Alerts, Slack bots & email automations
+ ┣ 📂 Chatbots/           → Slack bots, Telegram bots..
  ┣ 📂 integrations/       → Third-party API connections
  ┣ 📂 scrapers/           → Web scraping & data collection
  ┗ 📂 utils/              → Reusable sub-workflows & helpers
