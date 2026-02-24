@@ -71,11 +71,7 @@ cd n8n-workflows
 
 | # | Workflow | Category | Integrations | Difficulty |
 |---|----------|----------|--------------|------------|
-| 🔥 | `ai-email-responder` | AI Agent | Gmail + GPT-4 | ⚡ Medium |
-| 🔥 | `notion-daily-digest` | Productivity | Notion + Slack | 🌱 Easy |
-| 🔥 | `price-tracker-bot` | Scraper | HTTP + Telegram | ⚡ Medium |
-| 🔥 | `lead-enrichment` | Data | HubSpot + Apollo | 🔥 Advanced |
-| 🔥 | `social-media-scheduler` | Automation | Twitter + Buffer | 🌱 Easy |
+
 
 > 💡 **Pro tip:** Every workflow has `// CUSTOMIZE HERE` comments inside nodes so you can adapt them in minutes.
 
